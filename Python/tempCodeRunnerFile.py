@@ -1,0 +1,1 @@
+if regex.fullmatch(nome):
